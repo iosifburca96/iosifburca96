@@ -9,6 +9,9 @@ Enthusiastic computer science graduate specializing in web technologies, includi
 🔍 **Actively Seeking:** Junior developer roles using Angular/.NET or frontend/fullstack positions with these technologies.
 
 🚀 **Let's connect!** Feel free to reach out for collaboration or job opportunities.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iosifburca96)](https://github.com/anuraghazra/github-readme-stats&langs_count=10)
+
 <!--
 ## Experience
 
