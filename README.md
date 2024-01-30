@@ -11,7 +11,7 @@ Enthusiastic computer science graduate specializing in web technologies, includi
 🔍 **Actively Seeking:** Junior developer roles using Angular/.NET or frontend/fullstack positions with these technologies.
 
 🚀 **Let's connect!** Feel free to reach out for collaboration or job opportunities.
-
+<!--
 ## Experience
 
 ### Software Engineer | Bosch - Blaj, Alba
@@ -79,6 +79,7 @@ Enthusiastic computer science graduate specializing in web technologies, includi
 ---
 
 *Let's connect! Feel free to reach out for collaboration or job opportunities.*
+-->
 
 <!--
 **iosifburca96/iosifburca96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
