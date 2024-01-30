@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-# IOSIF BURCA
-
 📍 Alba Iulia, Alba | ✉️ iosifburca1@gmail.com | [LinkedIn](https://www.linkedin.com/in/iosif-burca/)
 
 ## Summary
