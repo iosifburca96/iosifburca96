@@ -1,14 +1,17 @@
-### Hi there 👋
-
-📍 Alba Iulia, Alba | ✉️ iosifburca1@gmail.com | [LinkedIn](https://www.linkedin.com/in/iosif-burca/)
 
 ## Summary
 
 Enthusiastic computer science graduate specializing in web technologies, including JavaScript, TypeScript, Angular and ASP.NET. Actively seeking opportunities for continuous growth and self-development. Passionate about creating innovative web solutions and skilled in logic.
 
-🔍 **Actively Seeking:** Junior developer roles using Angular/.NET or frontend/fullstack positions with these technologies.
+<br>
 
-🚀 **Let's connect!** Feel free to reach out for collaboration or job opportunities.
+<p align=center>🔍 **Actively Seeking:** Junior developer roles using Angular/.NET or frontend/fullstack positions with these technologies.</p>
+
+<p align=center>🚀 **Let's connect!** Feel free to reach out for collaboration or job opportunities.</p>
+
+<p align=center>📍 Alba Iulia, Alba | ✉️ iosifburca1@gmail.com | [LinkedIn](https://www.linkedin.com/in/iosif-burca/)</p>
+
+<br>
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iosifburca96&langs_count=8&size_weight=0.5&count_weight=0.5&hide_progress=true&theme=transparent)
 
