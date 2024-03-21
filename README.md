@@ -5,7 +5,7 @@ Enthusiastic computer science graduate specializing in web technologies, includi
 
 <br>
 
-<p align=center>🔍 **Actively Seeking:** Junior developer roles using Angular/.NET or frontend/fullstack positions with these technologies.</p>
+<p align=center>🔍 **Actively Seeking:** Junior developer roles using React / Angular / .NET or frontend/fullstack positions with these technologies.</p>
 
 <p align=center>🚀 **Let's connect!** Feel free to reach out for collaboration or job opportunities.</p>
 
