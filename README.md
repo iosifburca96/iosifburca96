@@ -13,6 +13,7 @@ Enthusiastic computer science graduate specializing in web technologies, includi
 
 <br>
 -->
+<!-- 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iosifburca96&langs_count=8&size_weight=0.5&count_weight=0.5&hide_progress=true&theme=transparent)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iosifburca96&hide=contribs,prs,stars&show_icons=true&theme=transparent&rank_icon=github&hide_rank=true)
@@ -20,7 +21,7 @@ Enthusiastic computer science graduate specializing in web technologies, includi
 <a href="https://github.com/anuraghazra/top-langs">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=iosifburca96&langs_count=8&size_weight=0.5&count_weight=0.5&hide_progress=true&theme=transparent" />
 </a>
-
+-->
 
 
 
